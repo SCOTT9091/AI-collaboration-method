@@ -2,7 +2,7 @@
 
 SCOTT-9091（[@SCOTT9091](https://github.com/SCOTT9091)）整理自多轮讨论 · 2026 年 11 月
 
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) · Word 版本：[AI 协作通法.docx](<AI 协作通法.docx>)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
 为什么不叫“提示词工程”？因为写提示词只是协作五个步骤中的一步（交底）。决定产出质量的，还有动笔前想清楚要什么、拿到结果后加以验证，以及跨会话的沉淀。“上下文工程”更接近一些，但仍偏重“给模型输入什么”，没有涵盖目标定义和验收。因此本文称之为“AI 协作”：把 AI 当作受托的执行者，讨论如何在信息不对称的条件下做好委托。
 
