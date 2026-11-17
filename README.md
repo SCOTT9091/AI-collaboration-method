@@ -1,6 +1,6 @@
 # AI 协作通法
 
-SCOTT-9091（[@SCOTT9091](https://github.com/SCOTT9091)）整理自多轮讨论 · 2026 年 11 月
+[SCOTT9091](https://github.com/SCOTT9091)整理自多轮讨论 · 2026 年 11 月
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
@@ -258,8 +258,8 @@ AI 看不到现场，它对现实的全部了解，都来自你转写的信息�
 
 ## 许可协议与引用
 
-© 2026 SCOTT-9091（[@SCOTT9091](https://github.com/SCOTT9091)）。本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议：可以转载和改编，但须署名、不得用于商业目的，改编后须以相同协议发布。协议全文见 [LICENSE](LICENSE)。
+© 2026 [SCOTT9091](https://github.com/SCOTT9091)。本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议：可以转载和改编，但须署名、不得用于商业目的，改编后须以相同协议发布。协议全文见 [LICENSE](LICENSE)。
 
 引用或转载时，请注明：
 
-> SCOTT-9091. AI 协作通法. 2026. https://github.com/SCOTT9091/AI-collaboration-method
+> SCOTT9091. AI 协作通法. 2026. https://github.com/SCOTT9091/AI-collaboration-method
